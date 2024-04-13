@@ -106,6 +106,8 @@ You can start from it and modify it as you need. Here's the [documentation relat
 
 ### Latest Changes
 
+* ⬆ Bump docker/build-push-action from 2 to 5. PR [#1](https://github.com/khulnasoft/nginx-rtmp-docker/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Internal
 
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#72](https://github.com/khulnasoft/nginx-rtmp-docker/pull/72) by [@alejsdev](https://github.com/alejsdev).
